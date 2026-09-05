@@ -17,8 +17,6 @@ export async function POST(req: Request) {
     }
 
     const dataDir = path.join(process.cwd(), 'data');
-    
-    // 1. Write the uploaded files to disk
     const bankBuffer = Buffer.from(await bankFile.arrayBuffer());
     const ledgerBuffer = Buffer.from(await ledgerFile.arrayBuffer());
     
@@ -27,7 +25,6 @@ export async function POST(req: Request) {
 
     console.log("✅ New CSV datasets ingested. Starting AI Pipeline...");
 
-    // 2. Execute the backend pipeline sequentially
     await execPromise('npx tsx scripts/fastPass.ts');
     await execPromise('npx tsx scripts/makerAgent.ts');
     await execPromise('npx tsx scripts/checkerAgent.ts');

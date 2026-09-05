@@ -13,15 +13,12 @@ function mergePipeline() {
   const unresolvedLedgers = JSON.parse(fs.readFileSync(path.join(dataDir, 'unresolved_ledgers.json'), 'utf-8'));
   const groundTruth = JSON.parse(fs.readFileSync(path.join(dataDir, 'ground_truth.json'), 'utf-8'));
 
-  // Load raw CSVs to calculate true dimensions dynamically
   const ledgerCsv = fs.readFileSync(path.join(dataDir, 'internal_ledger.csv'), 'utf-8');
   const bankCsv = fs.readFileSync(path.join(dataDir, 'bank_statement.csv'), 'utf-8');
   const ledgers = parse(ledgerCsv, { columns: true, skip_empty_lines: true });
   const banks = parse(bankCsv, { columns: true, skip_empty_lines: true });
 
   const makerMap = new Map(makerProposals.map((m: any) => [m.bank_id, m]));
-  
-  // The Stateful Invariant Tracker
   const claimedLedgers = new Set<string>();
 
   const reconciledReport: any[] = [];
@@ -49,7 +46,6 @@ function mergePipeline() {
       const hasCollision = audit.ledger_ids.some((id: string) => claimedLedgers.has(id));
       
       if (hasCollision) {
-        // Force-reject mathematically invalid LLM proposals
         exceptions.push({
           entity_type: "SYSTEM_REJECTED",
           id: audit.bank_id,
@@ -58,7 +54,6 @@ function mergePipeline() {
           description: `Code invariant failure: Attempted to claim ledger IDs [${audit.ledger_ids.join(', ')}] that were already reconciled.`
         });
       } else {
-        // Safe to claim
         audit.ledger_ids.forEach((id: string) => claimedLedgers.add(id));
         const makerInfo = makerMap.get(audit.bank_id) as any;
         

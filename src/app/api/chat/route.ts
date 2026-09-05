@@ -32,7 +32,6 @@ export async function POST(req: Request) {
       3. Keep answers concise, technical, and professional.
     `;
 
-    // Standard text generation, no streaming
     const result = await generateText({
       model: google('gemini-2.5-flash'),
       system: systemPrompt,

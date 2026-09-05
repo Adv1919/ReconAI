@@ -1,7 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { google } from '@ai-sdk/google';
-// import { groq } from '@ai-sdk/groq'; // Uncomment if using Groq
 import { generateObject } from 'ai';
 import { z } from 'zod';
 import * as dotenv from 'dotenv';
@@ -19,8 +18,7 @@ async function runMakerAgent() {
   console.log("Waiting for LLM response (this may take a moment)...");
 
   const { object } = await generateObject({
-    model: google('gemini-2.5-flash'), // 100% Free Tier Model
-    // model: groq('llama-3.3-70b-versatile'), // Swap to this if using Groq
+    model: google('gemini-2.5-flash'), 
     temperature: 0.2, 
     system: `You are an elite financial reconciliation Maker Agent. 
     Your job is to match unresolved bank statement records to internal ledger records.

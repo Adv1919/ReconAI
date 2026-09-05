@@ -5,7 +5,7 @@
 
 ReconAI is a high-throughput, fault-tolerant financial reconciliation engine. It utilizes a heterogeneous multi-agent architecture to autonomously ingest, verify, and reconcile unstructured bank statements against internal corporate ledgers, isolating true operational anomalies with mathematical precision.
 
-![ReconAI Dashboard](docs/dashboard-preview.png) *(Note: Create a 'docs' folder and drop a screenshot of your beautiful dark mode UI here!)*
+![ReconAI Dashboard](docs/dashboard-preview.png) 
 
 ## 🧠 Core Architecture: The Maker-Checker Pipeline
 

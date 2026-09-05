@@ -20,7 +20,6 @@ async function runCheckerStressTest() {
   const ledgerMap = new Map(ledgers.map((l: any) => [l.internal_txn_id, l]));
   const bankMap = new Map(banks.map((b: any) => [b.bank_stmt_id, b]));
 
-  // Planted adversarial mutations
   const adversarialProposals = [
     {
       label: "MATH_TAMPER",

@@ -63,17 +63,32 @@ export default function Dashboard() {
     
     setIsRunning(true);
     
-    // Demo Mode bypass for the presentation
-    setTimeout(() => {
+    try {
+      const formData = new FormData();
+      formData.append('bank', bankFile);
+      formData.append('ledger', ledgerFile);
+
+      const response = await fetch('/api/reconcile', { 
+        method: 'POST',
+        body: formData 
+      });
+      
+      if (!response.ok) throw new Error("Pipeline execution failed");
+      
       setIsRunning(false);
       setPipelineFinished(true);
-    }, 3500); 
+      
+    } catch (e) {
+      console.error("Pipeline execution error:", e);
+      setIsRunning(false);
+      alert("Pipeline failed to execute. Check your terminal logs.");
+    }
   };
 
   return (
     <div className="min-h-screen bg-[#04060A] text-slate-300 font-sans selection:bg-cyan-500/30 pb-24 relative overflow-hidden">
       
-      {/* Premium CSS Grid Background & Ambient Glow */}
+      {/* CSS Grid Background & Ambient Glow */}
       <div className="fixed inset-0 z-0 pointer-events-none flex justify-center">
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:24px_24px]"></div>
         <div className="absolute top-[-10%] w-[600px] h-[400px] bg-cyan-500/10 blur-[120px] rounded-full"></div>
@@ -101,7 +116,7 @@ export default function Dashboard() {
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-10 relative z-10">
         
-        {/* INTERACTIVE CONTROL CENTER (Glass Card) */}
+        {/* INTERACTIVE CONTROL CENTER*/}
         <section className="bg-white/[0.02] backdrop-blur-md rounded-2xl border border-white/5 p-6 flex flex-col lg:flex-row items-center justify-between gap-6 shadow-2xl mt-4 relative overflow-hidden group">
           <div className="absolute inset-0 bg-gradient-to-r from-cyan-500/0 via-cyan-500/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
           
@@ -154,7 +169,7 @@ export default function Dashboard() {
           </button>
         </section>
 
-        {/* METRICS - Frosted Glass Cards */}
+        {/* METRICS*/}
         <div className={`transition-all duration-700 ease-out ${pipelineFinished ? 'opacity-100 translate-y-0' : 'opacity-30 translate-y-8 pointer-events-none filter blur-md'}`}>
           <div className="grid grid-cols-1 gap-6 sm:grid-cols-4">
             
@@ -206,7 +221,7 @@ export default function Dashboard() {
           </div>
         </div>
 
-        {/* EXPANDED RED-TEAM LOGS */}
+        {/*RED-TEAM LOGS */}
         <div className={`transition-all duration-700 delay-150 ease-out ${pipelineFinished ? 'opacity-100 translate-y-0' : 'opacity-30 translate-y-8 pointer-events-none filter blur-md'}`}>
           <section className="bg-white/[0.02] backdrop-blur-md rounded-2xl border border-white/5 overflow-hidden shadow-2xl">
             <div className="bg-white/[0.02] px-8 py-5 border-b border-white/5 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4">
@@ -364,7 +379,7 @@ export default function Dashboard() {
         </div>
       )}
 
-      {/* FLOATING CHAT TOGGLE BUTTON */}
+      {/*CHAT TOGGLE BUTTON */}
       <button 
         onClick={() => setIsChatOpen(!isChatOpen)}
         className={`fixed bottom-8 right-8 p-4 rounded-full shadow-[0_0_20px_rgba(255,255,255,0.2)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] transition-all hover:-translate-y-1 group z-50 flex items-center gap-3 ${

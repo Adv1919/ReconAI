@@ -49,23 +49,18 @@ const unresolvedBanks: BankRecord[] = [];
 banks.forEach(bank => {
   const bankTime = parseDate(bank.val_date);
   const normalizedNarration = normalizeName(bank.narration);
-
-  // Find all possible candidate matches in the ledger
   const candidates = ledgers.filter(ledger => {
-    if (ledger.matched) return false; // Already matched
-    if (ledger.amount !== bank.credit_amount) return false; // Amount must be exact
+    if (ledger.matched) return false; 
+    if (ledger.amount !== bank.credit_amount) return false; 
 
-    // Date constraint: Bank settlement must be 0 to 2 days after ledger creation
     const ledgerTime = parseDate(ledger.created_at.split(' ')[0]);
     const dayDifference = (bankTime - ledgerTime) / (1000 * 3600 * 24);
     if (dayDifference < 0 || dayDifference > 2) return false;
 
-    // Name constraint: Ledger name must be found inside the bank narration
     const normalizedLedgerName = normalizeName(ledger.customer_name);
     return normalizedNarration.includes(normalizedLedgerName);
   });
 
-  // If EXACTLY ONE candidate exists, it is a safe deterministic match
   if (candidates.length === 1) {
     candidates[0].matched = true;
     bank.matched = true;
