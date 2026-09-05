@@ -38,5 +38,5 @@ Standard LLM wrappers fail at enterprise finance because they hallucinate number
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/recon-ai.git](https://github.com/yourusername/recon-ai.git)
-   cd recon-ai
+   git clone [https://github.com/Adv1919/ReconAI.git](https://github.com/Adv1919/ReconAI.git)
+   cd ReconAI
