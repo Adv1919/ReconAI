@@ -1,0 +1,362 @@
+[
+  {
+    "bank_id": "BNK_5000",
+    "ledger_ids": [
+      "TXN_1000"
+    ],
+    "amount": 2666.59,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5001",
+    "ledger_ids": [
+      "TXN_1001"
+    ],
+    "amount": 3467.84,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5002",
+    "ledger_ids": [
+      "TXN_1002"
+    ],
+    "amount": 4502.26,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5003",
+    "ledger_ids": [
+      "TXN_1003"
+    ],
+    "amount": 5616.28,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5004",
+    "ledger_ids": [
+      "TXN_1004"
+    ],
+    "amount": 4286.6,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5005",
+    "ledger_ids": [
+      "TXN_1005"
+    ],
+    "amount": 1885.99,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5006",
+    "ledger_ids": [
+      "TXN_1006"
+    ],
+    "amount": 2522.6,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5007",
+    "ledger_ids": [
+      "TXN_1007"
+    ],
+    "amount": 6113.87,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5008",
+    "ledger_ids": [
+      "TXN_1008"
+    ],
+    "amount": 6796.11,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5009",
+    "ledger_ids": [
+      "TXN_1009"
+    ],
+    "amount": 2415.53,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5010",
+    "ledger_ids": [
+      "TXN_1010"
+    ],
+    "amount": 5329.13,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5011",
+    "ledger_ids": [
+      "TXN_1011"
+    ],
+    "amount": 7481.88,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5012",
+    "ledger_ids": [
+      "TXN_1012"
+    ],
+    "amount": 5611.38,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5013",
+    "ledger_ids": [
+      "TXN_1013"
+    ],
+    "amount": 1703.47,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5014",
+    "ledger_ids": [
+      "TXN_1014"
+    ],
+    "amount": 5040.06,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5015",
+    "ledger_ids": [
+      "TXN_1015"
+    ],
+    "amount": 2669.75,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5016",
+    "ledger_ids": [
+      "TXN_1016"
+    ],
+    "amount": 2426.52,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5017",
+    "ledger_ids": [
+      "TXN_1017"
+    ],
+    "amount": 7126.64,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5018",
+    "ledger_ids": [
+      "TXN_1018"
+    ],
+    "amount": 5883.26,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5019",
+    "ledger_ids": [
+      "TXN_1019"
+    ],
+    "amount": 1495.53,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5020",
+    "ledger_ids": [
+      "TXN_1020"
+    ],
+    "amount": 4063.55,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5021",
+    "ledger_ids": [
+      "TXN_1021"
+    ],
+    "amount": 1144.08,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5022",
+    "ledger_ids": [
+      "TXN_1022"
+    ],
+    "amount": 4457.2,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5023",
+    "ledger_ids": [
+      "TXN_1023"
+    ],
+    "amount": 5945.49,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5024",
+    "ledger_ids": [
+      "TXN_1024"
+    ],
+    "amount": 6558.72,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5025",
+    "ledger_ids": [
+      "TXN_1025"
+    ],
+    "amount": 4400.75,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5026",
+    "ledger_ids": [
+      "TXN_1026"
+    ],
+    "amount": 8350.47,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5027",
+    "ledger_ids": [
+      "TXN_1027"
+    ],
+    "amount": 3498.88,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5028",
+    "ledger_ids": [
+      "TXN_1028"
+    ],
+    "amount": 270.5,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5029",
+    "ledger_ids": [
+      "TXN_1029"
+    ],
+    "amount": 8492.54,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5030",
+    "ledger_ids": [
+      "TXN_1030"
+    ],
+    "amount": 8229.91,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5031",
+    "ledger_ids": [
+      "TXN_1031"
+    ],
+    "amount": 3666.76,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5032",
+    "ledger_ids": [
+      "TXN_1032"
+    ],
+    "amount": 2087.49,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5033",
+    "ledger_ids": [
+      "TXN_1033"
+    ],
+    "amount": 7090.43,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5034",
+    "ledger_ids": [
+      "TXN_1034"
+    ],
+    "amount": 7927.34,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5035",
+    "ledger_ids": [
+      "TXN_1035"
+    ],
+    "amount": 1856.39,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5036",
+    "ledger_ids": [
+      "TXN_1036"
+    ],
+    "amount": 8238.21,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5037",
+    "ledger_ids": [
+      "TXN_1037"
+    ],
+    "amount": 501.55,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5038",
+    "ledger_ids": [
+      "TXN_1038"
+    ],
+    "amount": 636,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  },
+  {
+    "bank_id": "BNK_5039",
+    "ledger_ids": [
+      "TXN_1039"
+    ],
+    "amount": 590.9,
+    "confidence": 1,
+    "reason": "Exact 1:1 deterministic match (Amount + Name + Date)"
+  }
+]

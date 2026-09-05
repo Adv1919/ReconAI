@@ -9,18 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.114",
+    "@ai-sdk/google": "^3.0.121",
+    "@ai-sdk/groq": "^3.0.63",
+    "@ai-sdk/openai": "^3.0.104",
+    "@ai-sdk/react": "^3.0.279",
+    "ai": "^6.0.276",
+    "csv-parse": "^7.0.2",
+    "dotenv": "^17.4.2",
+    "lucide-react": "^1.39.0",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.35"
+    "zod": "^4.5.2"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
+    "@types/node": "^20.19.43",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.35"
+    "tsx": "^4.23.12",
+    "typescript": "^5"
   }
 }

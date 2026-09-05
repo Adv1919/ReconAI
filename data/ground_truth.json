@@ -1,0 +1,532 @@
+{
+  "exact_1to1": [
+    {
+      "bank_id": "BNK_5000",
+      "ledger_ids": [
+        "TXN_1000"
+      ],
+      "amount": 2666.59
+    },
+    {
+      "bank_id": "BNK_5001",
+      "ledger_ids": [
+        "TXN_1001"
+      ],
+      "amount": 3467.84
+    },
+    {
+      "bank_id": "BNK_5002",
+      "ledger_ids": [
+        "TXN_1002"
+      ],
+      "amount": 4502.26
+    },
+    {
+      "bank_id": "BNK_5003",
+      "ledger_ids": [
+        "TXN_1003"
+      ],
+      "amount": 5616.28
+    },
+    {
+      "bank_id": "BNK_5004",
+      "ledger_ids": [
+        "TXN_1004"
+      ],
+      "amount": 4286.6
+    },
+    {
+      "bank_id": "BNK_5005",
+      "ledger_ids": [
+        "TXN_1005"
+      ],
+      "amount": 1885.99
+    },
+    {
+      "bank_id": "BNK_5006",
+      "ledger_ids": [
+        "TXN_1006"
+      ],
+      "amount": 2522.6
+    },
+    {
+      "bank_id": "BNK_5007",
+      "ledger_ids": [
+        "TXN_1007"
+      ],
+      "amount": 6113.87
+    },
+    {
+      "bank_id": "BNK_5008",
+      "ledger_ids": [
+        "TXN_1008"
+      ],
+      "amount": 6796.11
+    },
+    {
+      "bank_id": "BNK_5009",
+      "ledger_ids": [
+        "TXN_1009"
+      ],
+      "amount": 2415.53
+    },
+    {
+      "bank_id": "BNK_5010",
+      "ledger_ids": [
+        "TXN_1010"
+      ],
+      "amount": 5329.13
+    },
+    {
+      "bank_id": "BNK_5011",
+      "ledger_ids": [
+        "TXN_1011"
+      ],
+      "amount": 7481.88
+    },
+    {
+      "bank_id": "BNK_5012",
+      "ledger_ids": [
+        "TXN_1012"
+      ],
+      "amount": 5611.38
+    },
+    {
+      "bank_id": "BNK_5013",
+      "ledger_ids": [
+        "TXN_1013"
+      ],
+      "amount": 1703.47
+    },
+    {
+      "bank_id": "BNK_5014",
+      "ledger_ids": [
+        "TXN_1014"
+      ],
+      "amount": 5040.06
+    },
+    {
+      "bank_id": "BNK_5015",
+      "ledger_ids": [
+        "TXN_1015"
+      ],
+      "amount": 2669.75
+    },
+    {
+      "bank_id": "BNK_5016",
+      "ledger_ids": [
+        "TXN_1016"
+      ],
+      "amount": 2426.52
+    },
+    {
+      "bank_id": "BNK_5017",
+      "ledger_ids": [
+        "TXN_1017"
+      ],
+      "amount": 7126.64
+    },
+    {
+      "bank_id": "BNK_5018",
+      "ledger_ids": [
+        "TXN_1018"
+      ],
+      "amount": 5883.26
+    },
+    {
+      "bank_id": "BNK_5019",
+      "ledger_ids": [
+        "TXN_1019"
+      ],
+      "amount": 1495.53
+    },
+    {
+      "bank_id": "BNK_5020",
+      "ledger_ids": [
+        "TXN_1020"
+      ],
+      "amount": 4063.55
+    },
+    {
+      "bank_id": "BNK_5021",
+      "ledger_ids": [
+        "TXN_1021"
+      ],
+      "amount": 1144.08
+    },
+    {
+      "bank_id": "BNK_5022",
+      "ledger_ids": [
+        "TXN_1022"
+      ],
+      "amount": 4457.2
+    },
+    {
+      "bank_id": "BNK_5023",
+      "ledger_ids": [
+        "TXN_1023"
+      ],
+      "amount": 5945.49
+    },
+    {
+      "bank_id": "BNK_5024",
+      "ledger_ids": [
+        "TXN_1024"
+      ],
+      "amount": 6558.72
+    },
+    {
+      "bank_id": "BNK_5025",
+      "ledger_ids": [
+        "TXN_1025"
+      ],
+      "amount": 4400.75
+    },
+    {
+      "bank_id": "BNK_5026",
+      "ledger_ids": [
+        "TXN_1026"
+      ],
+      "amount": 8350.47
+    },
+    {
+      "bank_id": "BNK_5027",
+      "ledger_ids": [
+        "TXN_1027"
+      ],
+      "amount": 3498.88
+    },
+    {
+      "bank_id": "BNK_5028",
+      "ledger_ids": [
+        "TXN_1028"
+      ],
+      "amount": 270.5
+    },
+    {
+      "bank_id": "BNK_5029",
+      "ledger_ids": [
+        "TXN_1029"
+      ],
+      "amount": 8492.54
+    },
+    {
+      "bank_id": "BNK_5030",
+      "ledger_ids": [
+        "TXN_1030"
+      ],
+      "amount": 8229.91
+    },
+    {
+      "bank_id": "BNK_5031",
+      "ledger_ids": [
+        "TXN_1031"
+      ],
+      "amount": 3666.76
+    },
+    {
+      "bank_id": "BNK_5032",
+      "ledger_ids": [
+        "TXN_1032"
+      ],
+      "amount": 2087.49
+    },
+    {
+      "bank_id": "BNK_5033",
+      "ledger_ids": [
+        "TXN_1033"
+      ],
+      "amount": 7090.43
+    },
+    {
+      "bank_id": "BNK_5034",
+      "ledger_ids": [
+        "TXN_1034"
+      ],
+      "amount": 7927.34
+    },
+    {
+      "bank_id": "BNK_5035",
+      "ledger_ids": [
+        "TXN_1035"
+      ],
+      "amount": 1856.39
+    },
+    {
+      "bank_id": "BNK_5036",
+      "ledger_ids": [
+        "TXN_1036"
+      ],
+      "amount": 8238.21
+    },
+    {
+      "bank_id": "BNK_5037",
+      "ledger_ids": [
+        "TXN_1037"
+      ],
+      "amount": 501.55
+    },
+    {
+      "bank_id": "BNK_5038",
+      "ledger_ids": [
+        "TXN_1038"
+      ],
+      "amount": 636
+    },
+    {
+      "bank_id": "BNK_5039",
+      "ledger_ids": [
+        "TXN_1039"
+      ],
+      "amount": 590.9
+    }
+  ],
+  "fuzzy_1to1": [
+    {
+      "bank_id": "BNK_5040",
+      "ledger_ids": [
+        "TXN_1040"
+      ],
+      "amount": 12231.27
+    },
+    {
+      "bank_id": "BNK_5041",
+      "ledger_ids": [
+        "TXN_1041"
+      ],
+      "amount": 6040.31
+    },
+    {
+      "bank_id": "BNK_5042",
+      "ledger_ids": [
+        "TXN_1042"
+      ],
+      "amount": 12899.01
+    },
+    {
+      "bank_id": "BNK_5043",
+      "ledger_ids": [
+        "TXN_1043"
+      ],
+      "amount": 6284.02
+    },
+    {
+      "bank_id": "BNK_5044",
+      "ledger_ids": [
+        "TXN_1044"
+      ],
+      "amount": 9342.26
+    },
+    {
+      "bank_id": "BNK_5045",
+      "ledger_ids": [
+        "TXN_1045"
+      ],
+      "amount": 6385.9
+    },
+    {
+      "bank_id": "BNK_5046",
+      "ledger_ids": [
+        "TXN_1046"
+      ],
+      "amount": 12000.14
+    },
+    {
+      "bank_id": "BNK_5047",
+      "ledger_ids": [
+        "TXN_1047"
+      ],
+      "amount": 1834.55
+    },
+    {
+      "bank_id": "BNK_5048",
+      "ledger_ids": [
+        "TXN_1048"
+      ],
+      "amount": 2966.81
+    },
+    {
+      "bank_id": "BNK_5049",
+      "ledger_ids": [
+        "TXN_1049"
+      ],
+      "amount": 5785.4
+    },
+    {
+      "bank_id": "BNK_5050",
+      "ledger_ids": [
+        "TXN_1050"
+      ],
+      "amount": 10605.4
+    },
+    {
+      "bank_id": "BNK_5051",
+      "ledger_ids": [
+        "TXN_1051"
+      ],
+      "amount": 13034.29
+    },
+    {
+      "bank_id": "BNK_5052",
+      "ledger_ids": [
+        "TXN_1052"
+      ],
+      "amount": 11482.9
+    },
+    {
+      "bank_id": "BNK_5053",
+      "ledger_ids": [
+        "TXN_1053"
+      ],
+      "amount": 7414.2
+    },
+    {
+      "bank_id": "BNK_5054",
+      "ledger_ids": [
+        "TXN_1054"
+      ],
+      "amount": 6433.05
+    }
+  ],
+  "fee_deducted": [
+    {
+      "bank_id": "BNK_5055",
+      "ledger_ids": [
+        "TXN_1055"
+      ],
+      "ledger_amount": 2463.59,
+      "bank_amount": 2414.32,
+      "note": "2% MDR deducted"
+    },
+    {
+      "bank_id": "BNK_5056",
+      "ledger_ids": [
+        "TXN_1056"
+      ],
+      "ledger_amount": 4897.72,
+      "bank_amount": 4799.77,
+      "note": "2% MDR deducted"
+    },
+    {
+      "bank_id": "BNK_5057",
+      "ledger_ids": [
+        "TXN_1057"
+      ],
+      "ledger_amount": 3225.88,
+      "bank_amount": 3161.36,
+      "note": "2% MDR deducted"
+    },
+    {
+      "bank_id": "BNK_5058",
+      "ledger_ids": [
+        "TXN_1058"
+      ],
+      "ledger_amount": 1673.87,
+      "bank_amount": 1640.39,
+      "note": "2% MDR deducted"
+    },
+    {
+      "bank_id": "BNK_5059",
+      "ledger_ids": [
+        "TXN_1059"
+      ],
+      "ledger_amount": 1115.02,
+      "bank_amount": 1092.72,
+      "note": "2% MDR deducted"
+    }
+  ],
+  "adversarial_trap": [
+    {
+      "bank_id": "BNK_5060",
+      "ledger_ids": [
+        "TXN_1060"
+      ],
+      "amount": 5000
+    },
+    {
+      "bank_id": "BNK_5061",
+      "ledger_ids": [
+        "TXN_1061"
+      ],
+      "amount": 5010
+    },
+    {
+      "bank_id": "BNK_5062",
+      "ledger_ids": [
+        "TXN_1062"
+      ],
+      "amount": 2500.5
+    },
+    {
+      "bank_id": "BNK_5063",
+      "ledger_ids": [
+        "TXN_1063"
+      ],
+      "amount": 2500.5
+    }
+  ],
+  "aggregated_1toN": [
+    {
+      "bank_id": "BNK_5064",
+      "ledger_ids": [
+        "TXN_1064",
+        "TXN_1065",
+        "TXN_1066"
+      ],
+      "amount": 2436.98
+    },
+    {
+      "bank_id": "BNK_5065",
+      "ledger_ids": [
+        "TXN_1067",
+        "TXN_1068",
+        "TXN_1069"
+      ],
+      "amount": 3672.45
+    },
+    {
+      "bank_id": "BNK_5066",
+      "ledger_ids": [
+        "TXN_1070",
+        "TXN_1071",
+        "TXN_1072"
+      ],
+      "amount": 3565.47
+    },
+    {
+      "bank_id": "BNK_5067",
+      "ledger_ids": [
+        "TXN_1073",
+        "TXN_1074",
+        "TXN_1075"
+      ],
+      "amount": 3084.58
+    },
+    {
+      "bank_id": "BNK_5068",
+      "ledger_ids": [
+        "TXN_1076",
+        "TXN_1077",
+        "TXN_1078"
+      ],
+      "amount": 1893.18
+    }
+  ],
+  "orphan_bank": [
+    {
+      "bank_id": "BNK_5069",
+      "ledger_ids": [],
+      "reason": "No ledger match"
+    }
+  ],
+  "orphan_ledger": [
+    {
+      "ledger_id": "TXN_1079",
+      "reason": "Never hit bank"
+    },
+    {
+      "ledger_id": "TXN_1080",
+      "reason": "Never hit bank"
+    }
+  ]
+}

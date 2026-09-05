@@ -1,0 +1,212 @@
+[
+  {
+    "bank_stmt_id": "BNK_5040",
+    "credit_amount": 12231.27,
+    "narration": "NEFT-INW/ANAN-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5041",
+    "credit_amount": 6040.31,
+    "narration": "NEFT-INW/AARA-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5042",
+    "credit_amount": 12899.01,
+    "narration": "NEFT-INW/VIKR-SETTLMT",
+    "val_date": "2026-08-26",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5043",
+    "credit_amount": 6284.02,
+    "narration": "NEFT-INW/AARA-SETTLMT",
+    "val_date": "2026-08-24",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5044",
+    "credit_amount": 9342.26,
+    "narration": "NEFT-INW/AARA-SETTLMT",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5045",
+    "credit_amount": 6385.9,
+    "narration": "NEFT-INW/ANAN-SETTLMT",
+    "val_date": "2026-08-25",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5046",
+    "credit_amount": 12000.14,
+    "narration": "NEFT-INW/SNEH-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5047",
+    "credit_amount": 1834.55,
+    "narration": "NEFT-INW/SNEH-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5048",
+    "credit_amount": 2966.81,
+    "narration": "NEFT-INW/RAHU-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5049",
+    "credit_amount": 5785.4,
+    "narration": "NEFT-INW/SNEH-SETTLMT",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5050",
+    "credit_amount": 10605.4,
+    "narration": "NEFT-INW/SNEH-SETTLMT",
+    "val_date": "2026-08-24",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5051",
+    "credit_amount": 13034.29,
+    "narration": "NEFT-INW/AARA-SETTLMT",
+    "val_date": "2026-08-24",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5052",
+    "credit_amount": 11482.9,
+    "narration": "NEFT-INW/SNEH-SETTLMT",
+    "val_date": "2026-08-25",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5053",
+    "credit_amount": 7414.2,
+    "narration": "NEFT-INW/ANAN-SETTLMT",
+    "val_date": "2026-08-25",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5054",
+    "credit_amount": 6433.05,
+    "narration": "NEFT-INW/PRIY-SETTLMT",
+    "val_date": "2026-08-23",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5055",
+    "credit_amount": 2414.32,
+    "narration": "CC/RZP/ANANYA VERMA/NET",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5056",
+    "credit_amount": 4799.77,
+    "narration": "CC/RZP/PRIYA PATEL/NET",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5057",
+    "credit_amount": 3161.36,
+    "narration": "CC/RZP/SNEHA GUPTA/NET",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5058",
+    "credit_amount": 1640.39,
+    "narration": "CC/RZP/PRIYA VERMA/NET",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5059",
+    "credit_amount": 1092.72,
+    "narration": "CC/RZP/PRIYA PATEL/NET",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5060",
+    "credit_amount": 5000,
+    "narration": "NEFT-INW/RAHU-SETTLMT",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5061",
+    "credit_amount": 5010,
+    "narration": "NEFT-INW/RAHU-SETTLMT",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5062",
+    "credit_amount": 2500.5,
+    "narration": "UPI/RZP/PRIYA PATEL/REF11",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5063",
+    "credit_amount": 2500.5,
+    "narration": "UPI/RZP/PRIYA PATEL/REF22",
+    "val_date": "2026-08-22",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5064",
+    "credit_amount": 2436.98,
+    "narration": "NODAL-BATCH-SETTLE-CNT-3",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5065",
+    "credit_amount": 3672.45,
+    "narration": "NODAL-BATCH-SETTLE-CNT-3",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5066",
+    "credit_amount": 3565.47,
+    "narration": "NODAL-BATCH-SETTLE-CNT-3",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5067",
+    "credit_amount": 3084.58,
+    "narration": "NODAL-BATCH-SETTLE-CNT-3",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5068",
+    "credit_amount": 1893.18,
+    "narration": "NODAL-BATCH-SETTLE-CNT-3",
+    "val_date": "2026-08-21",
+    "matched": false
+  },
+  {
+    "bank_stmt_id": "BNK_5069",
+    "credit_amount": 999.99,
+    "narration": "UNKNOWN-DEPOSIT",
+    "val_date": "2026-08-20",
+    "matched": false
+  }
+]

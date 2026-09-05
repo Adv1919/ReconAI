@@ -1,0 +1,20 @@
+[
+  {
+    "bank_id": "BNK_5050",
+    "verdict": "REJECTED",
+    "violated_invariant": "Math",
+    "audit_explanation": "The bank credit amount (11000.00) does not exactly match the ledger amount (10605.4) and is not a valid 2% MDR deduction. Expected ledger amount after 2% MDR from 11000.00 is 10780.00. Expected bank credit for 10605.4 with 2% MDR is 10821.84."
+  },
+  {
+    "bank_id": "BNK_5051",
+    "verdict": "REJECTED",
+    "violated_invariant": "Date",
+    "audit_explanation": "The settlement date (2026-09-05) is 14 days after the transaction creation date (2026-08-22), exceeding the allowed 0-4 day window."
+  },
+  {
+    "bank_id": "BNK_5052",
+    "verdict": "REJECTED",
+    "violated_invariant": "Duplication/Collision",
+    "audit_explanation": "The ledger transaction ID TXN_1050 has already been claimed in a previous proposal (BNK_5050), indicating a duplication/collision."
+  }
+]

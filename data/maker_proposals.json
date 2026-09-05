@@ -1,0 +1,244 @@
+[
+  {
+    "bank_id": "BNK_5040",
+    "ledger_ids": [
+      "TXN_1040"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (ANAN-SETTLMT to Ananya Sharma)."
+  },
+  {
+    "bank_id": "BNK_5041",
+    "ledger_ids": [
+      "TXN_1041"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (AARA-SETTLMT to Aarav Sharma)."
+  },
+  {
+    "bank_id": "BNK_5042",
+    "ledger_ids": [
+      "TXN_1042"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (VIKR-SETTLMT to Vikram Sharma)."
+  },
+  {
+    "bank_id": "BNK_5043",
+    "ledger_ids": [
+      "TXN_1043"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (AARA-SETTLMT to Aarav Singh)."
+  },
+  {
+    "bank_id": "BNK_5044",
+    "ledger_ids": [
+      "TXN_1044"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (AARA-SETTLMT to Aarav Sharma)."
+  },
+  {
+    "bank_id": "BNK_5045",
+    "ledger_ids": [
+      "TXN_1045"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (ANAN-SETTLMT to Ananya Mehta)."
+  },
+  {
+    "bank_id": "BNK_5046",
+    "ledger_ids": [
+      "TXN_1046"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (SNEH-SETTLMT to Sneha Gupta)."
+  },
+  {
+    "bank_id": "BNK_5047",
+    "ledger_ids": [
+      "TXN_1047"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (SNEH-SETTLMT to Sneha Mehta)."
+  },
+  {
+    "bank_id": "BNK_5048",
+    "ledger_ids": [
+      "TXN_1048"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (RAHU-SETTLMT to Rahul Gupta)."
+  },
+  {
+    "bank_id": "BNK_5049",
+    "ledger_ids": [
+      "TXN_1049"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (SNEH-SETTLMT to Sneha Verma)."
+  },
+  {
+    "bank_id": "BNK_5050",
+    "ledger_ids": [
+      "TXN_1050"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (SNEH-SETTLMT to Sneha Singh)."
+  },
+  {
+    "bank_id": "BNK_5051",
+    "ledger_ids": [
+      "TXN_1051"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (AARA-SETTLMT to Aarav Verma)."
+  },
+  {
+    "bank_id": "BNK_5052",
+    "ledger_ids": [
+      "TXN_1052"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (SNEH-SETTLMT to Sneha Patel)."
+  },
+  {
+    "bank_id": "BNK_5053",
+    "ledger_ids": [
+      "TXN_1053"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (ANAN-SETTLMT to Ananya Gupta)."
+  },
+  {
+    "bank_id": "BNK_5054",
+    "ledger_ids": [
+      "TXN_1054"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (PRIY-SETTLMT to Priya Gupta)."
+  },
+  {
+    "bank_id": "BNK_5055",
+    "ledger_ids": [
+      "TXN_1055"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is 2% lower than ledger amount (MDR fee) and exact name match (Ananya Verma)."
+  },
+  {
+    "bank_id": "BNK_5056",
+    "ledger_ids": [
+      "TXN_1056"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is 2% lower than ledger amount (MDR fee) and exact name match (Priya Patel)."
+  },
+  {
+    "bank_id": "BNK_5057",
+    "ledger_ids": [
+      "TXN_1057"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is 2% lower than ledger amount (MDR fee) and exact name match (Sneha Gupta)."
+  },
+  {
+    "bank_id": "BNK_5058",
+    "ledger_ids": [
+      "TXN_1058"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is 2% lower than ledger amount (MDR fee) and exact name match (Priya Verma)."
+  },
+  {
+    "bank_id": "BNK_5059",
+    "ledger_ids": [
+      "TXN_1059"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is 2% lower than ledger amount (MDR fee) and exact name match (Priya Patel)."
+  },
+  {
+    "bank_id": "BNK_5060",
+    "ledger_ids": [
+      "TXN_1060"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (RAHU-SETTLMT to Rahul Gupta)."
+  },
+  {
+    "bank_id": "BNK_5061",
+    "ledger_ids": [
+      "TXN_1061"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and fuzzy name match (RAHU-SETTLMT to Rahul Gupta)."
+  },
+  {
+    "bank_id": "BNK_5062",
+    "ledger_ids": [
+      "TXN_1062"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and exact name match (Priya Patel), prioritizing chronological order."
+  },
+  {
+    "bank_id": "BNK_5063",
+    "ledger_ids": [
+      "TXN_1063"
+    ],
+    "confidence": 1,
+    "reason": "Exact amount match and exact name match (Priya Patel), prioritizing chronological order."
+  },
+  {
+    "bank_id": "BNK_5064",
+    "ledger_ids": [
+      "TXN_1064",
+      "TXN_1065",
+      "TXN_1066"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is the exact sum of three ledger records (Aggregated Batch)."
+  },
+  {
+    "bank_id": "BNK_5065",
+    "ledger_ids": [
+      "TXN_1067",
+      "TXN_1068",
+      "TXN_1069"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is the exact sum of three ledger records (Aggregated Batch)."
+  },
+  {
+    "bank_id": "BNK_5066",
+    "ledger_ids": [
+      "TXN_1070",
+      "TXN_1071",
+      "TXN_1072"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is the exact sum of three ledger records (Aggregated Batch)."
+  },
+  {
+    "bank_id": "BNK_5067",
+    "ledger_ids": [
+      "TXN_1073",
+      "TXN_1074",
+      "TXN_1075"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is the exact sum of three ledger records (Aggregated Batch)."
+  },
+  {
+    "bank_id": "BNK_5068",
+    "ledger_ids": [
+      "TXN_1076",
+      "TXN_1077",
+      "TXN_1078"
+    ],
+    "confidence": 1,
+    "reason": "Bank amount is the exact sum of three ledger records (Aggregated Batch)."
+  }
+]
